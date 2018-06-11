@@ -1,0 +1,7 @@
+IDENTIFICATION DIVISION.
+PROGRAM-ID.  Shortest.
+
+PROCEDURE DIVISION.
+DisplayPrompt.
+    DISPLAY "I did it".
+    STOP RUN.
